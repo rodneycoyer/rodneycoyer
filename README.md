@@ -12,13 +12,13 @@
 
 ## 🌐 Connect with me:
 
+<p style="margin-top:20px">
+  💬 Questions, Comments or Feedback?? Please do not hesitate to reach out! I'm new to Twitter, so if you follow me, I'll definitely follow back!
+</p>
+
 <p align="center" style="margin-top:20px">
 <a href="https://twitter.com/rodneycoyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodneycoyer" height="50" width="70" /></a>
 <a href="https://www.linkedin.com/in/rodney-coyer-b2922b72/" target="blank" style="margin-left:25px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodneycoyer" height="50" width="70" /></a>
-</p>
-
-<p style="margin-top:20px">
-  💬 Questions, Comments or Feedback?? Please do not hesitate to reach out! I'm new to Twitter, so if you follow me, I'll definitely follow back!
 </p>
 
 <p style="margin-top:20px">
