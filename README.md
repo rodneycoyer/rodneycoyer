@@ -12,8 +12,8 @@
 
 ## 🌐 Connect with me:
 
-<p align="left" style="margin-top:20px">
-<a href="https://twitter.com/rodneycoyer" target="blank" style="margin-left:40px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodneycoyer" height="50" width="70" /></a>
+<p align="center" style="margin-top:20px">
+<a href="https://twitter.com/rodneycoyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodneycoyer" height="50" width="70" /></a>
 <a href="https://www.linkedin.com/in/rodney-coyer-b2922b72/" target="blank" style="margin-left:25px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodneycoyer" height="50" width="70" /></a>
 </p>
 
