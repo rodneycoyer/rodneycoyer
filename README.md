@@ -24,7 +24,7 @@
 <p style="margin-top:20px">
 
 ## 🛠️ I'm currently working on:
-- Material UI migration with my portfolio site
+- Material UI migration with my <a style="color: #white; text-decoration: none" href="https://rodneycoyer.com" target="_blank" rel="noreferrer"> portfolio site </a>
 - Microservice projects with Node/Express
 - AWS Certification
 - Docker
